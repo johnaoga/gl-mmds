@@ -4,6 +4,10 @@
 Organisation du cours
 *********************
 
+.. important::
+   Si vous suivez ce cours actuellement, vous devez signer la charte d'utilisation de l'IA ici :
+   `https://forms.gle/TtNLyc4pNSYaANTX9 <https://forms.gle/TtNLyc4pNSYaANTX9>`_
+
 Le **Big Data** désigne des données si **massives** que les algorithmes et
 machines classiques ne suffisent plus. Ce cours montre comment **fouiller ces
 données massives** (*Mining of Massive Datasets*) : via le **calcul distribué**
